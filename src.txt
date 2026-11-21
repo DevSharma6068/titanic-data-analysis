@@ -1,0 +1,3 @@
+i used google colab for clearing data of titanic
+used kaggle for dataset
+used github for repository 
